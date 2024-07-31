@@ -10,6 +10,7 @@ const Navebar = () => {
             <li>contact 4</li>
             <li>contact 5</li>
             <li>contact 6</li>
+            <li>contact 7</li>
         </div>
     );
 };
